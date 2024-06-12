@@ -43,4 +43,6 @@
 2. tsc --init生成ts配置文件
 3. npm install ts-node-dev -D安装ts代码变化监听工具
 4. scripts -> "dev:ts": "ts-node-dev --respawn ./index.ts"
+5. ts-node-dev默认支持ES Module
+
 

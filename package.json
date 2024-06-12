@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "typescript": "^5.4.5"
-  }
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev2api": "nodemon ./2_basic/api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amojs-xy/nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amojs-xy/nodejs/issues"
+  },
+  "homepage": "https://github.com/amojs-xy/nodejs#readme",
+  "description": ""
 }
